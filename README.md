@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 ```python
-Languages      = [Python, JavaScript, HTML, CSS]
-Web Frameworks = [Flask]
+Languages      = [Python, Java, HTML, CSS]
+Web Frameworks = [Django]
 Libraries      = [NumPy, Pandas, scikit-learn, NLTK, Matplotlib]
-Tools/Other    = [Git, GitHub, VS Code, MongoDB, Google Colab]
+Tools/Other    = [Git, GitHub, VS Code]
