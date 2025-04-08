@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Devika 👋</h1>
+<h1 align="center">Hi, I'm Devika Reddy 👋</h1>
 
 <p align="center">
   🚀 Passionate Developer | 💻 Aspiring AI Engineer | 🎯 Focused on Growth <br>
