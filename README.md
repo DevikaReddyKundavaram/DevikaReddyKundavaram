@@ -10,7 +10,7 @@
 ### 👩‍🎓 About Me
 
 - 🎓 Graduated in 2024 with a background in Computer Science  
-- 💡 Hands-on experience with **NLP**, **Django Web Development**, and **Frontend (HTML, CSS, JavaScript)**
+- 💡 Hands-on experience with **NLP,Ai,ML**, **Django Web Development**, and **Frontend (HTML, CSS, JavaScript)**
 - 📊 Currently diving deep into **Machine Learning** to master the AI wave
 - 💼 Open to internships, collaborations, and learning opportunities
 - 🌱 Learning one step at a time to become a **GenAI + Agentic AI Expert**
