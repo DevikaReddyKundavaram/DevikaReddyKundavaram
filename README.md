@@ -22,5 +22,5 @@
 ```python
 Languages      = [Python, Java, HTML, CSS]
 Web Frameworks = [Django]
-Libraries      = [NumPy, Pandas, scikit-learn, NLTK, Matplotlib]
+Libraries      = [NumPy, Pandas, scikit-learn, Tensorflow, NLTK, Matplotlib]
 Tools/Other    = [Git, GitHub, VS Code]
