@@ -20,8 +20,7 @@
 `OpenCV` `NLTK` `spaCy` `TensorFlow` (Learning)
 
 **Web / App:**  
-`HTML` `CSS` 
-`MySQL` 
+`HTML` `CSS` `MySQL` `Django`
 
 **Tools:**  
 `VS Code` `Jupyter Notebook` `Git` `GitHub` 
