@@ -9,21 +9,53 @@
 - 🧑‍💻 Focused on mastering **Machine Learning**, **AI Engineering**.
 - 🌱 Constantly learning about **Deep Learning**, **MLOps**, and **Data Science Best Practices**
 
+## 💼 Tech Stack I Use
+
+### 🚀 Languages
+- **Python**
+- **C**
+- **Java**
+
 ---
 
-## 💼 Tech Stack I Use
-**Languages:**  
-`Python` `C`  `Java`  
+### 🤖 AI / Machine Learning
+- **scikit-learn**
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+- **OpenCV**
+- **NLTK**
+- **spaCy**
+- **TensorFlow** (Learning)
 
-**AI / ML:**  
-`scikit-learn` `pandas` `numpy` `matplotlib` `seaborn`  
-`OpenCV` `NLTK` `spaCy` `TensorFlow` (Learning)
+---
 
-**Web / App:**  
-`HTML` `CSS` `MySQL` `Django`
+### 🌐 Web & App Development
+- **HTML**
+- **CSS**
+- **MySQL**
+- **Django**
 
-**Tools:**  
-`VS Code` `Jupyter Notebook` `Git` `GitHub` 
+---
+
+### 🔧 Tools & IDEs
+- **VS Code**
+- **Jupyter Notebook**
+- **Git**
+- **GitHub**
+
+
+---
+
+### 🚧 Additional Knowledge Areas
+- **Data Structures & Algorithms (DSA)**
+- **Machine Learning Lifecycle (EDA, Preprocessing, Model Training, Deployment)**
+- **Version Control (Git / GitHub)**
+
+---
+
+> **Currently sharpening my AI Engineering skills by building real-world projects and aiming for top AI opportunities like NVIDIA, ISRO, and IITs.**
 
 
 
