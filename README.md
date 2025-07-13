@@ -11,51 +11,16 @@
 
 ## 💼 Tech Stack I Use
 
-### 🚀 Languages
-- **Python**
-- **C**
-- **Java**
-
----
-
-### 🤖 AI / Machine Learning
-- **scikit-learn**
-- **pandas**
-- **numpy**
-- **matplotlib**
-- **seaborn**
-- **OpenCV**
-- **NLTK**
-- **spaCy**
-- **TensorFlow** (Learning)
-
----
-
-### 🌐 Web & App Development
-- **HTML**
-- **CSS**
-- **MySQL**
-- **Django**
-
----
-
-### 🔧 Tools & IDEs
-- **VS Code**
-- **Jupyter Notebook**
-- **Git**
-- **GitHub**
+| Category           | Technologies                                   |
+|--------------------|-------------------------------------------------|
+| **Languages**      | Python, C, Java                                 |
+| **AI / ML**        | scikit-learn, pandas, numpy, matplotlib, seaborn, OpenCV, NLTK, spaCy, TensorFlow (Learning) |
+| **Web / App**      | HTML, CSS, MySQL, Django                        |
+| **Tools & IDEs**   | VS Code, Jupyter Notebook, Git, GitHub |
+| **Knowledge Areas**| Data Structures & Algorithms (DSA), Machine Learning Lifecycle (EDA, Preprocessing, Model Training, Deployment), Version Control (Git/GitHub), Basic Cloud Concepts (AWS / Streamlit Cloud) |
 
 
----
-
-### 🚧 Additional Knowledge Areas
-- **Data Structures & Algorithms (DSA)**
-- **Machine Learning Lifecycle (EDA, Preprocessing, Model Training, Deployment)**
-- **Version Control (Git / GitHub)**
-
----
-
-> **Currently sharpening my AI Engineering skills by building real-world projects and aiming for top AI opportunities like NVIDIA, ISRO, and IITs.**
+> **Currently sharpening my AI Engineering skills by building real-world projects and aiming for top AI opportunities like  ISRO, and IITs.**
 
 
 
