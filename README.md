@@ -35,15 +35,12 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem #1: Vanishing Gradients in Deep Networks – Why It Happens](https://devikawrites.medium.com/problem-1-vanishing-gradients-why-it-happens-...)  
-- [Problem #2: Data Leakage – Killing ML Models Before They Start](https://devikawrites.medium.com/problem-2-data-leakage-...)  
+- [Problem #1: When More Data Breaks the Model: The Paradox of Overfitting in AI](https://medium.com/@devikareddykundavaram/when-more-data-breaks-the-model-the-paradox-of-overfitting-in-ai-2dcd77a6b59a)  
 <!-- BLOG-POST-LIST:END -->
 
 > ✨ Blogs auto-update if you're using GitHub Actions + RSS feed. Need help setting that up?
 
 ---
-
-
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-reddy-kundavaram-bb3a0122a/)
