@@ -24,14 +24,6 @@
 > **Currently sharpening my AI Engineering skills by building real-world projects and aiming for top AI opportunities.**
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devika&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devika&theme=radical" width="45%" />
-</p>
-
----
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
