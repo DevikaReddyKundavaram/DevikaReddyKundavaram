@@ -7,7 +7,7 @@
 - 🎓 Completed **B.Tech in Computer Science**
 - 🔭 Currently working on **AI & ML Projects (Predictive Models, NLP)**
 - 🧑‍💻 Focused on mastering **Machine Learning**, **AI Engineering**.
-- ✍️ Writing weekly blogs on AI/ML project challenges on [Medium](https://devikawrites.medium.com)  
+- ✍️ Writing weekly blogs on AI/ML project challenges on [Medium](https://medium.com/@devikareddykundavaram)  
 - 🌱 Constantly learning about **Deep Learning**, **MLOps**, and **Data Science Best Practices**
 
 ## 💼 Tech Stack I Use
