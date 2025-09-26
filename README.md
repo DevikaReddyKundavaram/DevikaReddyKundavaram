@@ -31,8 +31,6 @@
 - [Problem #2: Why Your Machine Learning Model Can’t Predict Properly — And How to Fix It](https://medium.com/@devikareddykundavaram/why-your-machine-learning-model-cant-predict-properly-and-how-to-fix-it-2bc9cae7b75b)
 <!-- BLOG-POST-LIST:END -->
 
-> ✨ Blogs auto-update if you're using GitHub Actions + RSS feed. Need help setting that up?
-
 ---
 
 ## 🔗 Let's Connect
