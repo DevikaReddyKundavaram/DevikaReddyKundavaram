@@ -27,7 +27,8 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Problem #1: When More Data Breaks the Model: The Paradox of Overfitting in AI](https://medium.com/@devikareddykundavaram/when-more-data-breaks-the-model-the-paradox-of-overfitting-in-ai-2dcd77a6b59a)  
+- [Problem #1: When More Data Breaks the Model: The Paradox of Overfitting in AI](https://medium.com/@devikareddykundavaram/when-more-data-breaks-the-model-the-paradox-of-overfitting-in-ai-2dcd77a6b59a)
+- [Problem #2: Why Your Machine Learning Model Can’t Predict Properly — And How to Fix It](https://medium.com/@devikareddykundavaram/why-your-machine-learning-model-cant-predict-properly-and-how-to-fix-it-2bc9cae7b75b)
 <!-- BLOG-POST-LIST:END -->
 
 > ✨ Blogs auto-update if you're using GitHub Actions + RSS feed. Need help setting that up?
